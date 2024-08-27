@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá, eu sou Lara Cury! 👋
 
-<!--
-**laracury/laracury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou estudando JavaScript e Figma...
+- 👯 Estou de olho nos frameworks React.js e Vue.js...
+- 💬 Sou formada em Ciências da Computação
+- 💬 Estou ingressa no curso de ADS
+- ⚡ Trabalhando em um projeto como tech leader, para um empresa real
 
-Here are some ideas to get you started:
+<div style="display: inline_block"></br>
+  <img aling="center" alt="html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+  <img aling="center" alt="css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img aling="center" alt="javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img aling="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img aling="center" alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img aling="center" alt="github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img aling="center" alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/lara-pereira-cury-nascimento"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lara_cury?igsh=MWt0ajY0YXh0dnVneQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
