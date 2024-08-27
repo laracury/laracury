@@ -6,12 +6,6 @@
 - 💬 Estou ingressa no curso de ADS
 - ⚡ Trabalhando em um projeto como tech leader, para um empresa real
 
-<div>
-  <a href="https://www.github.com/laracury/">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=laracury&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laracury&layout=compact&langs_count=16$theme=dracula"/>
-</div>
-
 <div style="display: inline_block"></br>
   <img aling="center" alt="html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
   <img aling="center" alt="css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
