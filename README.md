@@ -62,5 +62,7 @@
 <hr>
 
  <br>
-   ![Snake animation](https://github.com/laracury/laracury/blob/output/github-contribution-grid-snake.svg)
+   <img src="https://raw.githubusercontent.com/laracury/laracury/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
