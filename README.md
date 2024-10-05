@@ -21,6 +21,8 @@
 <div>
   <a href="https://www.linkedin.com/in/lara-pereira-cury-nascimento"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lara_cury?igsh=MWt0ajY0YXh0dnVneQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="mailto:laracury.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://laracury-portifolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
 </div>
 
 # 📊 GitHub Stats:
