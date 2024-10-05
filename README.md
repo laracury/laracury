@@ -46,7 +46,7 @@
 </div>
 <hr>
 
- <br>
+ <br clear="both">
   <img src="https://raw.githubusercontent.com/laracury/laracury/output/snake.svg" alt="Snake animation" />
 
 ###
