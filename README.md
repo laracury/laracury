@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Olá!!+Me+Chamo+Lara+Cury;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1580a&size=20&center=true&vCenter=true&width=1000&lines=Olá!!+Me+Chamo+Lara+Cury;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
-## 💜 Sobre mim
+## 🧡 Sobre mim
 
-- 🌱 Estou estudando JavaScript e Figma...
-- 👯 Estou de olho nos frameworks React.js e Vue.js...
-- 💬 Sou formada em Ciências da Computação
+- 💻 Ingressando meus estudos em React.js
+- 🎨 Estou me aprofundando mais em JavaScript e Figma
+- 🎓 Sou formada em Ciências da Computação
 - 💬 Estou ingressa no curso de ADS
-- ⚡ Trabalhando em um projeto como tech leader, para um empresa real
+- ⚡ Trabalhando com tecnicas de Design UX/UI
 
  <br>
   
