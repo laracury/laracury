@@ -2,11 +2,12 @@
 
 ## 🧡 Sobre mim
 
-- 💻 Ingressando meus estudos em React.js
+- 📚 Ingressando meus estudos em React.js
 - 🎨 Estou me aprofundando mais em JavaScript e Figma
 - 🎓 Sou formada em Ciências da Computação
 - 💬 Estou ingressa no curso de ADS
 - ⚡ Trabalhando com tecnicas de Design UX/UI
+- 💻 Trainee em Desenvolvimento Front End na Telebit Brasil
 
  <br>
   
