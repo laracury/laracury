@@ -3,11 +3,11 @@
 ## 🧡 Sobre mim
 
 - ⚡ Busco sempre evoluir em todas as áreas da minha vida!
-- 📚 Ingressando meus estudos em React.js
+- 📚 Estudando React.js e Tailwind
 - 🎓 Sou formada em Ciências da Computação
 - 💬 Estou ingressa no curso de ADS
-- 🎨 Trabalhando com tecnicas de Design UX/UI
-- 💻 Trainee em Desenvolvimento Front End na Telebit Brasil
+- 🎨 Conhecimento em tecnicas de Design UX/UI
+- 💻 Desenvolvedora Front End na Telebit Brasil
 
  <br>
   
