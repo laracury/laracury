@@ -3,7 +3,7 @@
 ## 🧡 Sobre mim
 
 - ⚡ Busco sempre evoluir em todas as áreas da minha vida!
-- 📚 Estudando React.js e Tailwind
+- 📚 Estudando Next.js e TypeScript
 - 🎓 Sou formada em Ciências da Computação
 - 💬 Estou ingressa no curso de ADS
 - 🎨 Conhecimento em tecnicas de Design UX/UI
