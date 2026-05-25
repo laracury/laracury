@@ -12,11 +12,11 @@
  <br>
   
   ## 💫 Estatísticas do GitHub
-  
   <div align="center">  
-     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=laracury&theme=dracula_border=true&theme=dracula" /> 
-     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laracury&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
-  </div>
+    <img height="170em" src="https://streak-stats.demolab.com?user=laracury&background=161B22&border=30363D&ring=E14E1D&fire=E14E1D&currStreakNum=E14E1D&sideNums=E14E1D&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&hide_border=true" /> 
+
+   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laracury&layout=compact&bg_color=161B22&title_color=E14E1D&text_color=C9D1D9&hide_border=true" />
+</div>
 
   <br>
 
