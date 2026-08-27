@@ -3,11 +3,10 @@
 ## 🧡 Sobre mim
 
 - ⚡ Sempre em busca da minha melhor versão!
-- 📚 Estudando Next.js e TypeScript
 - 🎓 Sou formada em Ciências da Computação
 - 💬 Estou ingressa no curso de ADS
 - 🎨 Conhecimento em técnicas em Design UX/UI
-- 💻 Desenvolvedora Front End na Telebit Brasil
+- 💻 Desenvolvedora de Software na Telebit Brasil
 
  <br>
   
